@@ -1,1 +1,1 @@
-Reveal.initialize({controls:true,progress:true,history:true,center:true});
+Reveal.initialize({controls:true,progress:true,history:true,center:true,mouseWheel:true});
