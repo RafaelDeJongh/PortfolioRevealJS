@@ -162,6 +162,10 @@ body{background: #17171a}
 }
 /*Navigation 
 ----------------------------------------------*/
+.reveal .controls {
+	background-color:rgba(0,0,0,.09);
+	border-radius:100%;
+}
 .reveal .controls .navigate-left,.reveal .controls .navigate-left.enabled{border-right-color:#900;outline:none}
 .reveal .controls .navigate-right,.reveal .controls .navigate-right.enabled{border-left-color:#900;outline:none}
 .reveal .controls .navigate-up,.reveal .controls .navigate-up.enabled{border-bottom-color:#900;outline:none}
